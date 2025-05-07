@@ -1,0 +1,2 @@
+# Daraldim
+Uygulamayı öğrenmeye çalışıyorum.
